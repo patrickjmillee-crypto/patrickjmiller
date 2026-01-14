@@ -1,3 +1,9 @@
+README.md
+
+Your Readme is Done 🎉🎉🎉
+Star This Project
+Fork on Github
+
 <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 ###
@@ -62,12 +68,41 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<p align="center">LinkedIN: <br>https://www.linkedin.com/in/pj-miller-92a166318/</p>
 
 ###
+Github
+Donate
+Share
+Privacy Policy
+Copy File Content
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+Level Up Your README
+Anyone can use templates — but when you know what you’re doing, it shows.
 
-###
+👉 Explore resources that will upgrade your skills — and your README. Start now.
+
+
+Boost Your English
+Real devs debug in English.
+
+💰 Get 70% OFF your first trial lesson and start to boost your english with top tutors worldwide on Preply 🚀
+
+👉 Get 70% OFF 👈
+
+Clean Code
+A Handbook of Agile Software Craftsmanship by Uncle Bob.
+
+Get the book
+
+Clean Architecture
+Software Architecture Solutions from Uncle Bob.
+
+Get the book
+
+Explore More Books
+Browse the full list of curated titles to boost your coding skills.
+
+More books
+💡 This panel contains affiliate links. If you find something useful and make a purchase, I may earn a small commission ☕. Thanks for the support ❤
+Profile Readme Generator
